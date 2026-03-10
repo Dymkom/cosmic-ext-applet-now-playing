@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Now Playing
+Exec=cosmic-ext-applet-now-playing %F
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=com.github.DiegoMMR.CosmicExtAppletNowPlaying
+Categories=COSMIC;AudioVideo;
+Keywords=Music;Media;Now Playing;
+NoDisplay=true
+X-CosmicApplet=true
+X-CosmicHoverPopup=Auto
